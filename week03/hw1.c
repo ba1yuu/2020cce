@@ -10,14 +10,14 @@ int main() {
     int *p = &a[2];
         *p = 222;
             printALL ();
-            printf("p¤ß²z¤p¯È±ø°O±o­È¬O:%d\n", p);
+            printf("på¿ƒç†å°ç´™æ¢è¨˜å¾—å€¼æ˜¯:%d\n", p);
         p =p+2;
         *p = 666;
             printALL ();
-            printf("p¤ß²z¤p¯È±ø°O±o­È¬O:%d\n", p);
+            printf("på¿ƒç†å°ç´™æ¢è¨˜å¾—å€¼æ˜¯:%d\n", p);
         p--;
         *p = 555;
             printALL ();
-            printf("p¤ß²z¤p¯È±ø°O±o­È¬O:%d\n", p);
+            printf("på¿ƒç†å°ç´™æ¢è¨˜å¾—å€¼æ˜¯:%d\n", p);
 
 }
